@@ -2,6 +2,4 @@ streamlit
 pandas
 numpy
 scikit-learn
-tensorflow==2.13.0
-joblib
-pickle-mixin
+tensorflow
